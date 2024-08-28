@@ -31,7 +31,7 @@ header{width: 700px;height: 100%;position: fixed; top:0px; left:-420px;
     /* 2depth */
     #gnb ul{position:absolute; left:0px; top:0px; opacity: 0; transition:0.5s;}
     #gnb>li:hover ul {opacity:0.8; left:205px;}
-    #gnb ul a {display:block; width:150px; height:40px;background: #222 ;
+    #gnb ul a {display:block; width:230px; height:40px;background: #222 ;
                 border-bottom: 1px solid greenyellow;
                 font:bold 15px/2.5 arial;color:white;
                 box-sizing:border-box;padding-left:50px;
